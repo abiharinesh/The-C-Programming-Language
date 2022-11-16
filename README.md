@@ -1,9 +1,4 @@
-# CS 246 Enriched (Object Oriented Programming) Notes
-
-_Course information at the bottom of the page._
-
-These notes cover CS 246E in Fall 2017, the first offering of the course. The textbook used is [The C++ Programming Language](http://www.stroustrup.com/4th.html),
-reading sections are referenced to this book. 
+# (Object Oriented Programming) Notes
 
 ## Table of Contents
 
@@ -221,42 +216,4 @@ Work in progress (feel free to contribute)!
 - Vtable
     - [18](Notes/problem_18.md)
 
-### W
 
-### X
-
-### Y
-
-### Z
-
-
-## Course Information (Fall 2017)
-_Brad Lushman_  
-_DC 3110_  
-_bmlushma@uwaterloo.ca_  
-_[https://www.student.cs.uwaterloo.ca/~cs246e](https://www.student.cs.uwaterloo.ca/~cs246e)_  
-
-Must use Linux:
-
-**Windows:** 
-
-putty.exe 
-
-- connect to linux.student.cs.uwaterloo.ca
-- enable X11 forwarding
-- win scp
-
-**Mac/Linux:** 
-
-- terminal, ssh userid@linux.student.cs.uwaterloo.ca
-
-Also Install xwindows server, eg. Xming, XQuartz
-
-**TUTORIAL ATTENDANCE IS MANDATORY!**
-
-## Goals:
-
-- Meet the CS 246 objectives, more breadth, more depth
-- A course on abstraction
-- Demand-driven, problem-oriented presentation, introduce C++ concepts as needed
-- Linux tools on the side/tutorials
